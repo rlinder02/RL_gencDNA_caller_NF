@@ -1,0 +1,6 @@
+pandas
+seaborn
+Bio
+networkx
+polars
+pyarrow

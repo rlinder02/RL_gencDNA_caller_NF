@@ -1,0 +1,21 @@
+name: RL_gencDNA_caller_INS_DEL_version
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - minimap2=2.28
+  - sniffles=2.2
+  - bedtools
+  - xsv
+  - lima
+  - parallel
+  - pbccs
+  - pbmm2
+  - pbtk
+  - ripgrep
+  - samtools
+  - pbbam
+  - seqtk
+  - bcftools
+  - agat
